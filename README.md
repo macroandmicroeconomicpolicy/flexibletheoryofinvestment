@@ -1,5 +1,5 @@
 # flexibletheoryofinvestment
-ntroduction 
+Introduction 
 
 The theory of flexible accelerator has been developed in various forms by Seneri, Goodwin, Koik and Junankar.
 
